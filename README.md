@@ -1,10 +1,10 @@
 GroundStudio Magma Splash
 ====================================
-[![sojows2](https://user-images.githubusercontent.com/77836107/183652796-c3d1b3b2-f819-417e-894d-ca20291c3121.png)](https://ardushop.ro/ro/home/2496-placa-de-dezvoltare-magma-splash.html)
+[![sojows2](https://user-images.githubusercontent.com/77836107/183652796-c3d1b3b2-f819-417e-894d-ca20291c3121.png)](https://ardushop.ro/en/development-boards/2184-groundstudio-magma-splash-6427854033680.html)
 
-Get it from [ardushop.ro](https://ardushop.ro/ro/home/2496-placa-de-dezvoltare-magma-splash.html)
+Get it from [ardushop.ro](https://ardushop.ro/en/development-boards/2184-groundstudio-magma-splash-6427854033680.html)
 
-Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.ro/)
+Explore all the GroundStudio products at [ardushop.ro](https://ardushop.ro/en/37-groundstudio)
 
 Description
 -------------------
